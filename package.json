@@ -1,10 +1,13 @@
 {
-  "name": "HoWgCrANLO8YB5UGyhHqTpJyRcfNbRouhAIiobAygk0EuBXCVy",
+  "name": "เว็บสล็อต - เว็บพนัน ufa191(ยูฟ่า191) สมัครฟรี เครดิตฟรี ที่นี้",
   "theme": "syntax",
   "version": "1.0.9",
   "description": "เว็บสล็อต หวย ทว่า เว็บสล็อต ที่ UFA191 เว็บพนัน มีเกมพนันทุกชนิด หุ้น Lotto999 คนเล่นหวยหุ้นตัวจริงนิยมอันดับ 1 ยอมมั่นใจได้ว่า เว็บขายหวยหุ้นออนไลน์ Lott",
   "repository": "https://github.com/gullibles-02/indoor-03",
-  "keywords": ["เว็บสล็อต","เว็บสล็อต UFA191"],
+  "keywords": [
+    "เว็บสล็อต",
+    "เว็บสล็อต UFA191"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"

@@ -1,10 +1,13 @@
 {
-  "name": "vWCSvEdZC95xrwJk70QNUybHGoDtui8ZSPtX8rvQcRA33TKb0z",
+  "name": "เกมคาสิโน - เว็บพนัน qq288(คิวคิว288) สมัครฟรี เครดิตฟรี ที่นี้",
   "theme": "syntax",
   "version": "1.0.6",
   "description": "เกมคาสิโน เมื่อมีการชนะรางวัล ทั้งนี้ เกมคาสิโน QQ288 เว็บพนันออนไลน์ อันดับหนึ่ง นอกจากหนังสือเล่มที่ได้รางวัลจะหายไปแล้ว ทุกการชนะจะมีการเปิดคาถากำกับให้",
   "repository": "https://github.com/gullibles-02/indoor-03",
-  "keywords": ["เกมคาสิโน","เกมคาสิโน QQ288"],
+  "keywords": [
+    "เกมคาสิโน",
+    "เกมคาสิโน QQ288"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"

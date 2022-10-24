@@ -1,13 +1,10 @@
 {
-  "name": "บาคาร่า - เว็บพนัน 818king(818คิงส์) สมัครฟรี เครดิตฟรี ที่นี้",
+  "name": "41v7q5SzuFP1PRbYckiILk8Cin8QPxpUCoGb9tq9NgSW77mjgM",
   "theme": "syntax",
   "version": "1.0.5",
   "description": "บาคาร่า สล็อตใหม่มาแรง อนึ่ง บาคาร่า ที่ 818King เว็บพนัน มีเกมพนันทุกชนิด อัปเดตในปี 2022 ร่วมสนุกสนานกับ สล็อตมาแรง ที่ Rcg168.Com  ทุกคนสามารถเลือกเล่น ",
   "repository": "https://github.com/gullibles-02/indoor-03",
-  "keywords": [
-    "บาคาร่า",
-    "บาคาร่า 818King"
-  ],
+  "keywords": ["บาคาร่า","บาคาร่า 818King"],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"

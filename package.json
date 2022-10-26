@@ -1,10 +1,13 @@
 {
-  "name": "6939i7WZChya1xkFcRENYlB7AxR3LdbMHEoDqc3oNCOO9JY2jI",
+  "name": "เกมสล็อต สมัครยังไง",
   "theme": "syntax",
   "version": "1.0.12",
   "description": "เกมสล็อต ทางเราเป็นผู้ให้บริการ และ เกมสล็อต ที่ Fun88 เว็บพนัน มีเกมพนันทุกชนิด เกม สล็อต Money Train 2 พนันออนไลน์ที่มีทุนน้อยก็เล่นได้ มีทุนมากก็เล่นได้",
   "repository": "https://github.com/gullibles-02/indoor-03",
-  "keywords": ["เกมสล็อต","เกมสล็อต Fun88"],
+  "keywords": [
+    "เกมสล็อต",
+    "เกมสล็อต Fun88"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"

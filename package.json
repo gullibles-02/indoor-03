@@ -1,10 +1,13 @@
 {
-  "name": "RVwSCxcFUMLtfs7IDnwAQN3C8mVEnH7IuYdEK973ejriF3URba",
+  "name": "พนันบอล ทำไมถึงนิยม",
   "theme": "syntax",
   "version": "1.0.16",
   "description": "พนันบอล วิธีการสมัครสมาชิกของนักเดิมพันที่ยังไม่เคยลงทะเบียนกับทางเว็บเรามาก่อนเพื่อกดรับโปรโมชั่นนั้น ทว่า พนันบอล ที่ 1688SAGame เว็บพนัน อันดับหนึ่ง มีข",
   "repository": "https://github.com/gullibles-02/indoor-03",
-  "keywords": ["พนันบอล","พนันบอล 1688SAGame"],
+  "keywords": [
+    "พนันบอล",
+    "พนันบอล 1688SAGame"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"

@@ -1,10 +1,13 @@
 {
-  "name": "w1R7e4wsTQck0w0CX6u8Cr6sVvzgEQWY8ubw4CF5n91Xtp5FGR",
+  "name": "appchina เลือกยังไง - เว็บใหม่ happyluke 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.73",
   "description": "appchina ผู้เล่นสามารถเลือกชิปบนหน้าจอ ทั้งนี้ appchina ที่ HappyLuke เว็บพนัน มีเกมพนันทุกชนิด แล้ววางเดิมพันที่กระดานรูเล็ต ตัวเลขและสัญลักษณ์หน้าแทงบนกร",
   "repository": "https://github.com/gullibles-02/indoor-03",
-  "keywords": ["APPCHINA","APPCHINA HappyLuke"],
+  "keywords": [
+    "APPCHINA",
+    "APPCHINA HappyLuke"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"

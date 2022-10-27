@@ -1,10 +1,13 @@
 {
-  "name": "X2Y6C7f0LxV4cgRgYq1c4TfYn1xbuwytbXnNmjmyuiJhoxIW0T",
+  "name": "westlotto เล่นที่ไหน - เว็บใหม่ huay999 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.42",
   "description": "westlotto เว็บ ถึง westlotto Huay999 หวยออนไลน์ อันดับหนึ่ง ซื้อหวยออนไลน์ มีเลขเด็ด หวยรัฐบาลแม่น้ำหนึ่ง หรือ น้ำหนึ่ง ภิรดา งวดวันที่ 1265 มาฝากคอหวยทุกท",
   "repository": "https://github.com/gullibles-02/indoor-03",
-  "keywords": ["WESTLOTTO","WESTLOTTO Huay999"],
+  "keywords": [
+    "WESTLOTTO",
+    "WESTLOTTO Huay999"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"

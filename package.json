@@ -1,10 +1,13 @@
 {
-  "name": "AgLIWwUO17oh6ILpcCwsk9J1b6vnj02ndYcpTQsn4SM9Fbi5nl",
+  "name": "สูตรยิงปลา ดูที่ไหน",
   "theme": "syntax",
   "version": "1.0.34",
   "description": "สูตรยิงปลา Worm88 ถึง สูตรยิงปลา ที่ Fun88 เว็บพนัน อันดับหนึ่ง เว็บคาสิโน สล็อต รวมทุกค่ายดัง พร้อมลงทุนอิสระตลอดวัน รูปแบบการเล่นพนันได้มาตรฐาน สูตรยิงปล",
   "repository": "https://github.com/gullibles-02/indoor-03",
-  "keywords": ["สูตรยิงปลา","สูตรยิงปลา Fun88"],
+  "keywords": [
+    "สูตรยิงปลา",
+    "สูตรยิงปลา Fun88"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"

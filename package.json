@@ -1,13 +1,10 @@
 {
-  "name": "ตรวจหวย1865 แตกต่างกันอย่างไร - เว็บใหม่ huaylike 2023 ล่าสุด",
+  "name": "MhYFjcpJa7cf1rdA5wzPgXun85EgwO2cp3CF22YVCpkYr0aAky",
   "theme": "syntax",
   "version": "1.0.84",
   "description": "ตรวจหวย1/8/65 คอหวย ดั่ง ตรวจหวย1/8/65 Huaylike หวยออนไลน์ อันดับหนึ่ง และนักเสี่ยงโชค ทั้งหลาย น่าจะพอรู้จักกับหวยนาคาพยากรณ์ ตรวจหวย1/8/65 ล่าสุด วันนี้ไ",
   "repository": "https://github.com/gullibles-02/indoor-03",
-  "keywords": [
-    "ตรวจหวย1/8/65",
-    "ตรวจหวย1/8/65 Huaylike"
-  ],
+  "keywords": ["ตรวจหวย1/8/65","ตรวจหวย1/8/65 Huaylike"],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"

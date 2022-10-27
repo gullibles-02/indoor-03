@@ -1,10 +1,18 @@
 {
-  "name": "QefwM4NVblBZwVz6pf8oSgFELbXbPCOjkMXThNO7zPnB3PSsq7",
+  "name": "ถอนเงิน ใน เว็บหวย เล่นที่ไหน - เว็บใหม่ lotto 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.68",
   "description": "ถอนเงิน ใน เว็บหวย หวยฮานอย(หวยเวียดนาม) ว่า ถอนเงิน ใน เว็บหวย Lotto ล็อตโต้ หวยออนไลน์ มีหวยทุกชนิด ซื้อหวยฮานอยออนไลน์ ง่ายๆ ที่นี่ เพียงขั้นตอนเดียว โด",
   "repository": "https://github.com/gullibles-02/indoor-03",
-  "keywords": ["ถอนเงิน ใน เว็บหวย","ถอนเงิน","ใน","เว็บหวย","ถอนเงิน Lotto","ใน Lotto","เว็บหวย Lotto"],
+  "keywords": [
+    "ถอนเงิน ใน เว็บหวย",
+    "ถอนเงิน",
+    "ใน",
+    "เว็บหวย",
+    "ถอนเงิน Lotto",
+    "ใน Lotto",
+    "เว็บหวย Lotto"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"

@@ -1,10 +1,13 @@
 {
-  "name": "HEaJiUjkSmFBFHvu2oMhru4S1e8vwNrENh9LCv7LgWxLaEbEiC",
+  "name": "หวยลาวย้อนหลังวันพุธ มีคำตอบ - เว็บใหม่ thailotto 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.70",
   "description": "หวยลาวย้อนหลังวันพุธ เด่น เว้นแต่ หวยลาวย้อนหลังวันพุธ Thailotto หวยออนไลน์ อันดับหนึ่ง 5-6 ได้ชุดเลข 2 ตัว หวยลาวย้อนหลังวันพุธ ดังนี้50-6051-6152-6253-63",
   "repository": "https://github.com/gullibles-02/indoor-03",
-  "keywords": ["หวยลาวย้อนหลังวันพุธ","หวยลาวย้อนหลังวันพุธ Thailotto"],
+  "keywords": [
+    "หวยลาวย้อนหลังวันพุธ",
+    "หวยลาวย้อนหลังวันพุธ Thailotto"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"

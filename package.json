@@ -1,10 +1,13 @@
 {
-  "name": "8DjdGdePt5JxZISdM3kbAGIn2QbuK8pUUgTh5xMNZtp6wbDCK2",
+  "name": "ผลหุ้นอังกฤษ แตกต่างกันอย่างไร - เว็บใหม่ masurebet 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.1.11",
   "description": "ผลหุ้นอังกฤษ สมัครเล่นเกมหัวก้อย ตาม ผลหุ้นอังกฤษ Masurebet มาชัวร์เบท หวยออนไลน์ มีหวยทุกชนิด คลิ๊กที่รูปได้เลยสวัสดีครับวันนี้เรามีเกมส์หัวก้อยสุดคลาสสิก",
   "repository": "https://github.com/gullibles-02/indoor-03",
-  "keywords": ["ผลหุ้นอังกฤษ","ผลหุ้นอังกฤษ Masurebet"],
+  "keywords": [
+    "ผลหุ้นอังกฤษ",
+    "ผลหุ้นอังกฤษ Masurebet"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"

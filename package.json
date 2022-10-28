@@ -1,10 +1,13 @@
 {
-  "name": "NXehnWdaJWXM8t16fvAX4dMudaCxBg1SyuEYfnF9bjLwFs2jNn",
+  "name": "เว็บพนันบอลต่างประเทศ ได้อย่างไร - เว็บใหม่ gclub 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.1.10",
   "description": "เว็บพนันบอลต่างประเทศ สำหรับคุณใดที่พอใจเข้าเล่นแทงหวยออนไลน์กับ แด่ เว็บพนันบอลต่างประเทศ ที่ Gclub เว็บพนัน มีเกมพนันทุกชนิด Luckybet678 สามารถเข้า สมัคร",
   "repository": "https://github.com/gullibles-02/indoor-03",
-  "keywords": ["เว็บพนันบอลต่างประเทศ","เว็บพนันบอลต่างประเทศ Gclub"],
+  "keywords": [
+    "เว็บพนันบอลต่างประเทศ",
+    "เว็บพนันบอลต่างประเทศ Gclub"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
